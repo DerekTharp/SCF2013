@@ -1,5 +1,5 @@
 *This is working SCF code that manipulates the dataset created from the Fed's macrocode;
-LIBNAME OUT 'C:\Users\sheckman\dropbox\Data\SCF';
+LIBNAME OUT 'C:\Users\********\dropbox\Data\SCF';
 data out.SCFworking;
 set out.SCF92_13;
 *****************
